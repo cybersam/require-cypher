@@ -1,5 +1,5 @@
 {
-  "name": "require-cypher",
+  "name": "@cybersam/require-cypher",
   "version": "1.0.1",
   "description": "Enables the getting of Cypher file contents as a string via require()",
   "main": "index.js",
