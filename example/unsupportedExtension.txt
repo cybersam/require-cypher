@@ -1,0 +1,3 @@
+// This file's name does not have an expected extension (.cql, .cyp, or .cypher)
+MATCH (n:Foo)
+RETURN COUNT(n);

@@ -1,0 +1,21 @@
+{
+  "name": "require-cypher",
+  "version": "1.0.1",
+  "description": "Enables the getting of Cypher file contents as a string via require()",
+  "main": "index.js",
+  "scripts": {
+    "run-example": "node example"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cybersam/require-cypher.git"
+  },
+  "author": "Samuel C. Yang (https://github.com/cybersam, https://stackoverflow.com/users/974731/cybersam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cybersam/require-cypher/issues"
+  }
+}
